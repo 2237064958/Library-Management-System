@@ -1,0 +1,5 @@
+{
+  "name": "智图云 - 智能图书馆管理系统",
+  "description": "基于 React 和 Gemini API 的现代化图书管理系统，提供图书编目、流通借还、读者管理及AI智能导读功能。",
+  "requestFramePermissions": []
+}
